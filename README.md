@@ -26,7 +26,7 @@ We use Jekyll, it is a static site generator.
 
 When you’re developing a site you’ll use `jekyll serve` as it updates with any changes you make.
 
-Run `jekyll serve` and go to `http://localhost:4000` in your browser. You should see the roadmap.
+Run `jekyll serve` and go to `http://127.0.0.1:4000/ruby-developer/` in your browser. You should see the roadmap.
 
 
 # LICENSE

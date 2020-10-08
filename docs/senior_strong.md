@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Strong Senior
-prev_link: "[Предыдущий уровень Senior](/docs/senior)" 
 ---
 
 # Что должен знать и уметь Strong Senior?

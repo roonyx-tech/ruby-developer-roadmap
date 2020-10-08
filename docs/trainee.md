@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Trainee - стажер
-next_link: "[Следующий уровень Junior](/docs/junior)" 
 ---
 
 # Что должен знать и уметь стажер?

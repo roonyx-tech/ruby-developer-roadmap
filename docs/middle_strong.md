@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Strong Middle
-prev_link: "[Предыдущий уровень Middle](/docs/middle)" 
-next_link: "[Следующий уровень Senior](/docs/senior)" 
 ---
 
 # Что должен знать и уметь Strong Middle?

@@ -4,7 +4,7 @@ email: it@roonyx.tech
 description: >-
   Мы составили карту навыков и компетенций Ruby разработчика, которую можно использовать для развития себя и команды.
   Попробуйте приложить её и к себе!
-baseurl: '/'
+baseurl: '/ruby-developer'
 url: ''
 twitter_username: RoonyxTech
 github_username: Roonyx

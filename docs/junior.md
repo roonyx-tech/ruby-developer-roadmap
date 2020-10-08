@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Junior
-prev_link: "[Предыдущий уровень Trainee (стажер)](/docs/trainee)" 
-next_link: "[Следующий уровень Strong Junior](/docs/junior_strong)" 
 ---
 
 # Что должен знать и уметь Junior?
