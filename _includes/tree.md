@@ -6,3 +6,4 @@
     * [Middle(Strong)](/docs/middle_strong)
     * [Senior](/docs/senior)
     * [Senior(Strong)](/docs/senior_strong)
+* [Contributing Guidelines](/CONTRIBUTING)

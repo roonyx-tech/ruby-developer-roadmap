@@ -14,6 +14,6 @@ instagram_username: roonyx_tech
 
 # Build settings
 theme: minima
-exclude: ['README.md', 'LICENSE.md', 'CONTRIBUTING.md', 'Gemfile.lock', 'Gemfile', '.idea']
+exclude: ['README.md', 'LICENSE.md', 'Gemfile.lock', 'Gemfile', '.idea']
 plugins:
   - jekyll-feed

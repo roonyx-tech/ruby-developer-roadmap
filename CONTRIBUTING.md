@@ -1,3 +1,28 @@
-# Contributing Guidelines
+---
+layout: page
+title: Contributing Guidelines
+---
+## Виды участия
 
-TODO
+  - [Создавайте issue](https://gitlab.roonyx.team/roadmap/ruby-developer-roadmap/issues/new), если вы видите какой-то навык или компетенцию Ruby developer, которая осталась не охваченной. Или нашли ошибку, нерабочии ссылки и т.п. Или у вас просто есть идея.
+  - [Создавайте Merge Request](https://gitlab.roonyx.team/roadmap/ruby-developer-roadmap/merge_requests/new), вы можете дорабатыввать и изменять.
+  - Если вы не знаете, чем конкретно хотите заняться, то можете пробежаться по нашим [Issues](https://gitlab.roonyx.team/roadmap/ruby-developer-roadmap/issues).
+  
+## Работа над Issue
+  
+Если вы готовы взять в работу Issue, то:
+
+1. Убедитесь, что на доске проекта в колонке `In progress` эта задача отсутствует, иначе вы рискуете проделать двойную работу.
+2. Найдите соответствующий тикет в Issues и назначте его на себя. На доске проекта передвиньте в статус `In progress`.
+3. Создайте PR.
+4. После того как задача будет готова передвинте в колонку `Review`
+5. Если есть комментарии, задача будет переведена в статус `Need changes`
+
+## Как изменить или добавить новое?
+
+Для работы над картой мы используем движок Jekyll, это статический сайт генератор, который легок в освоении.
+Для разввертывания проекта прочтите README.me в корне [репозитория](https://gitlab.roonyx.team/roadmap/ruby-developer-roadmap/blob/master/README.md)
+
+## Maintainers 
+
+В репозитории cейчас maintainer [Dmitry Anikin](https://gitlab.roonyx.team/dmitry.anikin)  
