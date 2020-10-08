@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body>
+
+{%- include header.html -%}
+
+<!--<div class="sidenav">-->
+<!--</div>-->
+
+<nav class="sidebar">
+  {% capture tree %}{% include tree.md %}{% endcapture %}
+  {{ tree | markdownify }}
+</nav>
+
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    <article class="post">
+      {%- if page.next_link || page.prev_link -%}
+      <div class="nav-links">
+        <div>{%- if page.prev_link -%}{{ page.prev_link | markdownify }}{%- endif -%}</div>
+        <div>{%- if page.next_link -%}{{ page.next_link | markdownify }}{%- endif -%}</div>
+      </div>
+      {%- endif -%}
+
+      <header class="post-header">
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+      </header>
+
+      <div class="post-content">
+        {{ content }}
+      </div>
+
+    </article>
+  </div>
+</main>
+
+{%- include footer.html -%}
+
+</body>
+
+</html>
+
+

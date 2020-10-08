@@ -1,0 +1,8 @@
+* [Градации](/docs/grades)
+    * [Trainee](/docs/trainee)
+    * [Junior](/docs/junior)
+    * [Junior(Strong)](/docs/junior_strong)
+    * [Middle](/docs/middle)
+    * [Middle(Strong)](/docs/middle_strong)
+    * [Senior](/docs/senior)
+    * [Senior(Strong)](/docs/senior_strong)
