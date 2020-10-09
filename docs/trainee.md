@@ -24,21 +24,17 @@ title: Trainee - стажер
       
   - CSS 
       * [HTML Academy Basic CSS](https://htmlacademy.ru/courses/basic-css)
+      * [CSS и CSS3. Свойства для форматирования html-элементов](https://html5book.ru/css-css3/)
       * [CSS основы(Youtube)](https://www.youtube.com/playlist?list=PL026CCEB5125879C2)
-      * [Flexbox froggy игра](http://flexboxfroggy.com/)
-      * [Grid garden игра](https://cssgridgarden.com/)
       * [Способы организации CSS-кода](https://habr.com/ru/post/256109/)
-      * [Особенности свойства height в %](https://learn.javascript.ru/height-percent/)
-      * [Единицы измерения. Проценты](https://learn.javascript.ru/css-units#protsenty/)
       * [CSS-цвета](https://html5book.ru/css-colors/)
+      * [Единицы измерения. Проценты](https://learn.javascript.ru/css-units#protsenty/)
+      * [Особенности свойства height в %](https://learn.javascript.ru/height-percent/)
       * [What You May Not Know About the Z-Index Property](https://webdesign.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892)
-      * [Контекст наложения](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
       * [Приоритеты (специфичность) селекторов](https://habr.com/ru/post/137588/)
       * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-      * [CSS и CSS3. Свойства для форматирования html-элементов](https://html5book.ru/css-css3/)
-      * [flex-grow странный. Так ли это?](https://css-live.ru/articles/flex-grow-strannyj-tak-li-eto.html)
-      * [Как работает flex-shrink в CSS. Подробное руководство](https://medium.com/@stasonmars/%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-flex-shrink-%D0%B2-css-%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-c41e40767194)
-      * [Liquid/Adaptive/Responsive/Static demo](http://g-mops.net/epica_saitama/epica_layout/index_adaptive.html)
+      * [Flexbox froggy игра](http://flexboxfroggy.com/)
+      * [Grid garden игра](https://cssgridgarden.com/)
       
   - Javascript
       * [Learn javascript](https://learn.javascript.ru/)
