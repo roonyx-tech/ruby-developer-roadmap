@@ -13,7 +13,7 @@ title: Junior
   * [Структуры данных для самых маленьких](https://habrahabr.ru/post/310794/)
   * [Codewars - решай задачи](https://www.codewars.com/)
  
-### Вопросы про алгоритмизацию
+<details><summary markdown='span'>Вопросы для проверки</summary>
 
   - [ ] Расскажите про структуры данных?      
      * Списки
@@ -28,7 +28,9 @@ title: Junior
      * Сортировки
      * Поиска в строке
      * Обхода и поиска в структурах данных
- 
+
+</details>
+
 ## GIT
 
   * [Интерактивный тур по основам Git](https://githowto.com/ru)
@@ -40,7 +42,7 @@ title: Junior
   * [Скринкаст по Git](https://learn.javascript.ru/screencast/git#intro-starting-video)
   * [Pro Git (Scott Chacon, Ben Straub)](https://git-scm.com/book/ru/v2)
 
-### Вопросы про GIT
+<details><summary markdown='span'>Вопросы для проверки</summary>
 
   - [ ] Что такое система управления версиями?
   - [ ] Установка, инициализация локального репозитория. Основные консольные команды. gitignore.
@@ -59,11 +61,13 @@ title: Junior
   - [ ] Разные схемы ветвления Gitflow, Github flow
   - [ ] Как правильно писать сообщение к коммитам? Что стоит туда включать? А что нет?
 
+</details>
+
 ## Ruby
 
   * [Try ruby](http://tryruby.org/levels/1/challenges/0)
 
-### Вопросы по Ruby
+<details><summary markdown='span'>Вопросы для проверки</summary>
 
 #### Числа, операторы и выражения
 
@@ -296,12 +300,15 @@ title: Junior
   - [ ] Что такое YAML?
   - [ ] Как превратить Ruby объект в JSON?
   - [ ] Как превратить JSON в Ruby объект?
+
+</details>
  
 ## Ruby on Rails
 
   * [guides.rubyonrails.org](https://guides.rubyonrails.org/)
 
-### Вопросы по Ruby on Rails
+<details><summary markdown='span'>Вопросы для проверки</summary>
+
 #### Routing
 
   - [ ] Что такое "root" маршрут? (Rails.root)
@@ -444,6 +451,8 @@ title: Junior
   - [ ] Как (в общих чертах) этот процесс выглядит с точки зрения пользователя?
   - [ ] Как (в общих чертах) этот процесс выглядит с вашей (разработчика приложения) точки зрения?
   - [ ] Что такое OmniAuth и почему это экономит вам кучу времени и нервов?
+
+</details>
  
 ## Английский язык
 Большинство лучших курсов, справочных и учебных материалов доступно именно на английском языке.

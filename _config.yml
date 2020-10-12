@@ -14,6 +14,9 @@ instagram_username: roonyx_tech
 
 # Build settings
 theme: minima
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 exclude: ['README.md', 'LICENSE.md', 'Gemfile.lock', 'Gemfile', '.idea']
 plugins:
   - jekyll-feed

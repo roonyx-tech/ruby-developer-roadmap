@@ -16,7 +16,7 @@ title: Trainee - стажер
   * [Людоедский интерфейс, Вадим Макеев](https://www.youtube.com/watch?v=ssJsjGZE2sc)
   * [HTML для начинающих(Youtube)](https://www.youtube.com/playlist?list=PLY4rE9dstrJyeZlPWoKJr1xKVVnG4w-Hc)
   
-### Вопросы про HTML
+<details><summary markdown='span'>Вопросы для проверки</summary>
 
   - [ ] Структура HTML-документа, основные теги и атрибуты
   - [ ] Для чего нужен `doctype`?
@@ -51,7 +51,9 @@ title: Trainee - стажер
     - [ ] Что такое Модификатор?
     - [ ] Когда следует использовать булевый модификатор, а когда модификатор ключ-значение?     
     - [ ] Почему в CSS по БЭМ не рекомендуется использовать селекторы по id и по тегам?
-  
+      
+</details>
+
 ## CSS 
 
   * [HTML Academy Basic CSS](https://htmlacademy.ru/courses/basic-css)
@@ -67,7 +69,7 @@ title: Trainee - стажер
   * [Flexbox froggy игра](http://flexboxfroggy.com/)
   * [Grid garden игра](https://cssgridgarden.com/)
 
-### Вопросы про CSS
+<details><summary markdown='span'>Вопросы для проверки</summary>
 
   - [ ] Как подключить CSS к HTML документу?
   - [ ] Что такое специфичность CSS селекторов и как она работает?
@@ -110,6 +112,8 @@ title: Trainee - стажер
     - [ ] Что такое flex-container и flex-items?
     - [ ] Как выравнивать элементы с помощью flexbox?
   - [ ] Что такое `media-queries`?  
+
+</details>
         
 ## Javascript
   * [Learn javascript](https://learn.javascript.ru/)
@@ -118,7 +122,7 @@ title: Trainee - стажер
   * [ES6 классы](http://jsraccoon.ru/es6-classes)
   * [Классы в ECMAScript 6](https://frontender.info/es6-classes-final/)
 
-### Вопросы про Javascript
+<details><summary markdown='span'>Вопросы для проверки</summary>
 
   - [ ] Что такое консоль разработчика?
   - [ ] Какие типы данных в JavaScript?
@@ -145,18 +149,24 @@ title: Trainee - стажер
   - [ ] Где чаще всего используются анонимные функции?
   - [ ] Что такое «use strict»;? В чем преимущества и недостатки использования данного выражения?
   - [ ] Чем отличается let от var?
-        
+
+</details>  
+
 ## ООП
 
   * [Объектно-ориентированное программирование](https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
   
 ### Вопросы про ООП
 
+<details><summary markdown='span'>Вопросы для проверки</summary>
+
   - [ ] Что такое класс? Что такое объект? В чем их разница?
   - [ ] Что такое область видимости переменной?
   - [ ] Что такое абстрактный класс?
   - [ ] Чем абстрактный класс отличается от интерфейса
   - [ ] Расскажите основные принципы в ООП.
+
+</details>
  
 ## Инструменты разработки
 

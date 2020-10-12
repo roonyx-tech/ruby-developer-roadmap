@@ -5,6 +5,11 @@
 @import "minima";
 
 // === Main structure
+details > summary {
+  cursor: pointer;
+  font-weight: bold;
+}
+
 .site-header {
   position: fixed;
   left: 0;

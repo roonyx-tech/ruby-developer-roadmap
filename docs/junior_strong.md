@@ -13,7 +13,7 @@ title: Strong Junior
   * [HTTP запрос](http://citforum.ru/internet/cgi_tut/rqst.shtml)
   * [HTTP ответ](http://citforum.ru/internet/cgi_tut/spns.shtml)
 
-### Вопросы по HTTP
+<details><summary markdown='span'>Вопросы для проверки</summary>
 
   - [ ] Что такое User-agent и зачем он нужет?
   - [ ] Что такое DNS?
@@ -26,18 +26,22 @@ title: Strong Junior
   - [ ] Что такое Базовая аутентификация?
   - [ ] Что такое Cookies?
 
+</details>
+
 ## Тестирование
 
   * [Виды тестирования и подходы к их применению (habrahabr)](https://habrahabr.ru/post/81226/)
   * [Test-Driven Development — телега или лошадь? (habrahabr)](https://habrahabr.ru/post/206828/)
 
-### Вопросы по тестированию
+<details><summary markdown='span'>Вопросы для проверки</summary>
 
   - [ ] Что такое TDD?
   - [ ] Что такое BDD?
   - [ ] Что такое Unit тестирование?
   - [ ] Что такое интеграционное тестирование?
   - [ ] Что такое системное тестирование?
+
+</details>
 
 ## Уязвимости:
 
@@ -54,20 +58,22 @@ title: Strong Junior
    * [Регулярные выражения (wikipedia)](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5_%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
    * [Жадные и ленивые квантификаторы (learn.javascript)](https://learn.javascript.ru/regexp-greedy-and-lazy)
 
-## Вопросы по регулярным выражениям   
+<details><summary markdown='span'>Вопросы для проверки</summary>
 
   - [ ] Расскажите про понятия:
      - [ ] Квантификация
      - [ ] Жадность
      - [ ] Группировка
 
+</details>
+
 ## SQL 
 
   * [Что такое SQL (wikipedia)](https://ru.wikipedia.org/wiki/SQL)
   * [Схема базы данных (wikipedia)](https://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
-
-## Вопросы по SQL
  
+<details><summary markdown='span'>Вопросы для проверки</summary>
+
   - [ ] Как создавать и удалять базы данных, таблицы
   - [ ] Как добавлять, обновлять и удалять записи
   - [ ] Что такое схема (SCHEMA)
@@ -77,6 +83,8 @@ title: Strong Junior
   - [ ] GROUP BY
   - [ ] JOIN
   - [ ] Подзапросы
+
+</details>
 
 ## Linux и CLI
 
