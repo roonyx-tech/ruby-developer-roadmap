@@ -90,3 +90,22 @@ title: Strong Junior
 
   * [Курс: Bash: Основы командной строки (Hexlet)](https://ru.hexlet.io/courses/bash?ref=62000)
   * [Статья: Искусство командной строки (статья)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
+
+<details><summary markdown='span'>Вопросы для проверки</summary>
+
+  - [ ] Какая разница между UNIX и LINUX?
+  - [ ] Что такое BASH?
+    - [ ] Что делает команда `cd /src/`?
+    - [ ] Что делает команда `ls -lha`?
+    - [ ] Как выйти из vim?
+    - [ ] Что делает команда `touch one.txt`?
+    - [ ] Что делает команда `cp -R one two`?
+    - [ ] Что делает команда `mv one two`?
+    - [ ] Что делает команда `rm -rf one`?
+    - [ ] Что делает команда `pwd`?
+    - [ ] Что делает команда `cat one.txt`?
+    - [ ] Что делает команда `tac one.txt`?
+    - [ ] Что делает команда `tail one.txt`?
+    - [ ] Что делает команда `tail -f one.txt`?
+    
+</details>
