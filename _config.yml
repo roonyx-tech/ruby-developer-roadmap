@@ -7,9 +7,9 @@ description: >-
 baseurl: '/ruby-developer'
 url: ''
 twitter_username: RoonyxTech
-github_username: Roonyx
+#github_username: Roonyx
 facebook_username: RoonyxTech
-linkedin_username: Roonyx
+#linkedin_username: Roonyx
 instagram_username: roonyx_tech
 
 # Build settings
