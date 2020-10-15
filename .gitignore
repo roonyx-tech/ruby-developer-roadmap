@@ -3,5 +3,4 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .idea
-vendor
 *.iml
