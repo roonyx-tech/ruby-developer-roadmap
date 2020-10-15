@@ -1,17 +1,19 @@
 ---
 layout: page
 title: Junior
+parent: Градации
+nav_order: 2
 ---
   
-{% include_relative junior_short.md %}
+{% include_relative requirements/junior.md %}
 
 ## Программирование и алгоритмизация
 
-  * [Статья habr: Пузырьковая сортировка и все-все-все](https://habr.com/ru/post/204600/)
-  * [Статья habr: Алгоритмы поиска в строке](https://habr.com/ru/post/111449/)
-  * [Алгоритмы и структуры данных поиска. Лекции и курсы от Яндекса](https://habr.com/ru/company/yandex/blog/208716/)
-  * [Структуры данных для самых маленьких](https://habrahabr.ru/post/310794/)
-  * [Codewars - решай задачи](https://www.codewars.com/)
+  * [Статья habr: Пузырьковая сортировка и все-все-все](https://habr.com/ru/post/204600/){:target="_blank"}
+  * [Статья habr: Алгоритмы поиска в строке](https://habr.com/ru/post/111449/){:target="_blank"}
+  * [Алгоритмы и структуры данных поиска. Лекции и курсы от Яндекса](https://habr.com/ru/company/yandex/blog/208716/){:target="_blank"}
+  * [Структуры данных для самых маленьких](https://habrahabr.ru/post/310794/){:target="_blank"}
+  * [Codewars - решай задачи](https://www.codewars.com/){:target="_blank"}
  
 <details><summary markdown='span'>Вопросы для проверки</summary>
 
@@ -33,14 +35,14 @@ title: Junior
 
 ## GIT
 
-  * [Интерактивный тур по основам Git](https://githowto.com/ru)
-  * [Git за полчаса](https://proglib.io/p/git-for-half-an-hour/)
-  * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-  * [GitHub Flow](https://guides.github.com/introduction/flow/)
-  * [GitHub Flow habr](https://habr.com/ru/post/189046/)
-  * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
-  * [Скринкаст по Git](https://learn.javascript.ru/screencast/git#intro-starting-video)
-  * [Pro Git (Scott Chacon, Ben Straub)](https://git-scm.com/book/ru/v2)
+  * [Интерактивный тур по основам Git](https://githowto.com/ru){:target="_blank"}
+  * [Git за полчаса](https://proglib.io/p/git-for-half-an-hour/){:target="_blank"}
+  * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/){:target="_blank"}
+  * [GitHub Flow](https://guides.github.com/introduction/flow/){:target="_blank"}
+  * [GitHub Flow habr](https://habr.com/ru/post/189046/){:target="_blank"}
+  * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/){:target="_blank"}
+  * [Скринкаст по Git](https://learn.javascript.ru/screencast/git#intro-starting-video){:target="_blank"}
+  * [Pro Git (Scott Chacon, Ben Straub)](https://git-scm.com/book/ru/v2){:target="_blank"}
 
 <details><summary markdown='span'>Вопросы для проверки</summary>
 
@@ -65,7 +67,7 @@ title: Junior
 
 ## Ruby
 
-  * [Try ruby](http://tryruby.org/levels/1/challenges/0)
+  * [Try ruby](http://tryruby.org/levels/1/challenges/0){:target="_blank"}
 
 <details><summary markdown='span'>Вопросы для проверки</summary>
 
@@ -305,7 +307,7 @@ title: Junior
  
 ## Ruby on Rails
 
-  * [guides.rubyonrails.org](https://guides.rubyonrails.org/)
+  * [guides.rubyonrails.org](https://guides.rubyonrails.org/){:target="_blank"}
 
 <details><summary markdown='span'>Вопросы для проверки</summary>
 
@@ -457,13 +459,13 @@ title: Junior
 ## Английский язык
 Большинство лучших курсов, справочных и учебных материалов доступно именно на английском языке.
 
-  * [Duolingo](https://www.duolingo.com/)
-  * [Lingualeo](https://lingualeo.com/)
-  * [Babadum](https://babadum.com/)
-  * [Anki](http://ankisrs.net/) и карточки [4000 Essential English Words (all books) [en-en] M4R4M](https://ankiweb.net/shared/info/1898344648)
-  * [Techrocks](https://techrocks.ru) очень много статей переведенных с английского
-  * [English e-Reader](https://english-e-reader.net/) адаптированные книги на английском
-  * [British council](https://learnenglish.britishcouncil.org/) очень много полезной и структурированной информации для изучения
-  * [Jazz chants](http://www.onestopenglish.com/skills/listening/jazz-chants/mp3-files-and-recording-scripts/) тренировка темпа и скорости речи, чтобы звучать более естественно
-  * [Engoo Daily news](https://engoo.com/app/daily-news) статьи на английском с разбивкой по уровням
-  * [YouGlish](https://youglish.com) поиск произношения слова или короткой фразы в Youtube
+  * [Duolingo](https://www.duolingo.com/){:target="_blank"}
+  * [Lingualeo](https://lingualeo.com/){:target="_blank"}
+  * [Babadum](https://babadum.com/){:target="_blank"}
+  * [Anki](http://ankisrs.net/){:target="_blank"} и карточки [4000 Essential English Words - all books - en-en - M4R4M](https://ankiweb.net/shared/info/1898344648){:target="_blank"}
+  * [Techrocks](https://techrocks.ru){:target="_blank"} очень много статей переведенных с английского
+  * [English e-Reader](https://english-e-reader.net/){:target="_blank"} адаптированные книги на английском
+  * [British council](https://learnenglish.britishcouncil.org/){:target="_blank"} очень много полезной и структурированной информации для изучения
+  * [Jazz chants](http://www.onestopenglish.com/skills/listening/jazz-chants/mp3-files-and-recording-scripts/){:target="_blank"} тренировка темпа и скорости речи, чтобы звучать более естественно
+  * [Engoo Daily news](https://engoo.com/app/daily-news){:target="_blank"} статьи на английском с разбивкой по уровням
+  * [YouGlish](https://youglish.com){:target="_blank"} поиск произношения слова или короткой фразы в Youtube

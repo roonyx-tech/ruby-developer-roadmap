@@ -1,39 +1,13 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+---
+layout: default
+---
 
-{%- include head.html -%}
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
 
-<body>
-
-{%- include header.html -%}
-
-<!--<div class="sidenav">-->
-<!--</div>-->
-
-<nav class="sidebar">
-  {% capture tree %}{% include tree.md %}{% endcapture %}
-  {{ tree | markdownify }}
-</nav>
-
-<main class="page-content" aria-label="Content">
-  <div class="wrapper">
-    <article class="post">
-      <header class="post-header">
-        <h1 class="post-title">{{ page.title | escape }}</h1>
-      </header>
-
-      <div class="post-content">
-        {{ content }}
-      </div>
-
-    </article>
+  <div class="post-content">
+    {{ content }}
   </div>
-</main>
-
-{%- include footer.html -%}
-
-</body>
-
-</html>
-
-
+</article>

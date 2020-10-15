@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contributing Guidelines
+nav_order: 2
 ---
 ## Виды участия
 

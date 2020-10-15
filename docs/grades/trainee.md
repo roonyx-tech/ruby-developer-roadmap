@@ -1,20 +1,22 @@
 ---
 layout: page
 title: Trainee - стажер
+parent: Градации
+nav_order: 1
 ---
 
-{% include_relative trainee_short.md %}
+{% include_relative requirements/trainee.md %}
 
 ## HTML
  
-  * [HTML Academy Basic](https://htmlacademy.ru/courses/basic-html)
-  * [HTML (MDN)](https://developer.mozilla.org/ru/docs/Web/HTML)
-  * [HTML BOOK](https://html5book.ru/html-html5/)
-  * [Основы методологии БЭМ](https://ru.bem.info/methodology/quick-start/)
-  * [Альтернативы БЭМ](https://habr.com/ru/post/256109/);
-  * [Как сверстать веб-страницу](https://habr.com/ru/post/202408/)
-  * [Людоедский интерфейс, Вадим Макеев](https://www.youtube.com/watch?v=ssJsjGZE2sc)
-  * [HTML для начинающих(Youtube)](https://www.youtube.com/playlist?list=PLY4rE9dstrJyeZlPWoKJr1xKVVnG4w-Hc)
+  * [HTML Academy Basic](https://htmlacademy.ru/courses/basic-html){:target="_blank"}
+  * [HTML (MDN)](https://developer.mozilla.org/ru/docs/Web/HTML){:target="_blank"}
+  * [HTML BOOK](https://html5book.ru/html-html5/){:target="_blank"}
+  * [Основы методологии БЭМ](https://ru.bem.info/methodology/quick-start/){:target="_blank"}
+  * [Альтернативы БЭМ](https://habr.com/ru/post/256109/){:target="_blank"}
+  * [Как сверстать веб-страницу](https://habr.com/ru/post/202408/){:target="_blank"}
+  * [Людоедский интерфейс, Вадим Макеев](https://www.youtube.com/watch?v=ssJsjGZE2sc){:target="_blank"}
+  * [HTML для начинающих(Youtube)](https://www.youtube.com/playlist?list=PLY4rE9dstrJyeZlPWoKJr1xKVVnG4w-Hc){:target="_blank"}
   
 <details><summary markdown='span'>Вопросы для проверки</summary>
 
@@ -56,18 +58,18 @@ title: Trainee - стажер
 
 ## CSS 
 
-  * [HTML Academy Basic CSS](https://htmlacademy.ru/courses/basic-css)
-  * [CSS и CSS3. Свойства для форматирования html-элементов](https://html5book.ru/css-css3/)
-  * [CSS основы(Youtube)](https://www.youtube.com/playlist?list=PL026CCEB5125879C2)
-  * [Способы организации CSS-кода](https://habr.com/ru/post/256109/)
-  * [CSS-цвета](https://html5book.ru/css-colors/)
-  * [Единицы измерения. Проценты](https://learn.javascript.ru/css-units#protsenty/)
-  * [Особенности свойства height в %](https://learn.javascript.ru/height-percent/)
-  * [What You May Not Know About the Z-Index Property](https://webdesign.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892)
-  * [Приоритеты (специфичность) селекторов](https://habr.com/ru/post/137588/)
-  * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-  * [Flexbox froggy игра](http://flexboxfroggy.com/)
-  * [Grid garden игра](https://cssgridgarden.com/)
+  * [HTML Academy Basic CSS](https://htmlacademy.ru/courses/basic-css){:target="_blank"}
+  * [CSS и CSS3. Свойства для форматирования html-элементов](https://html5book.ru/css-css3/){:target="_blank"}
+  * [CSS основы(Youtube)](https://www.youtube.com/playlist?list=PL026CCEB5125879C2){:target="_blank"}
+  * [Способы организации CSS-кода](https://habr.com/ru/post/256109/){:target="_blank"}
+  * [CSS-цвета](https://html5book.ru/css-colors/){:target="_blank"}
+  * [Единицы измерения. Проценты](https://learn.javascript.ru/css-units#protsenty/){:target="_blank"}
+  * [Особенности свойства height в %](https://learn.javascript.ru/height-percent/){:target="_blank"}
+  * [What You May Not Know About the Z-Index Property](https://webdesign.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892){:target="_blank"}
+  * [Приоритеты (специфичность) селекторов](https://habr.com/ru/post/137588/){:target="_blank"}
+  * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/){:target="_blank"}
+  * [Flexbox froggy игра](http://flexboxfroggy.com/){:target="_blank"}
+  * [Grid garden игра](https://cssgridgarden.com/){:target="_blank"}
 
 <details><summary markdown='span'>Вопросы для проверки</summary>
 
@@ -116,11 +118,11 @@ title: Trainee - стажер
 </details>
         
 ## Javascript
-  * [Learn javascript](https://learn.javascript.ru/)
-  * [Promise](https://habr.com/ru/company/ruvds/blog/427405/)
-  * [NPM основы](https://www.youtube.com/watch?v=2e0hbjtUT-4)
-  * [ES6 классы](http://jsraccoon.ru/es6-classes)
-  * [Классы в ECMAScript 6](https://frontender.info/es6-classes-final/)
+  * [Learn javascript](https://learn.javascript.ru/){:target="_blank"}
+  * [Promise](https://habr.com/ru/company/ruvds/blog/427405/){:target="_blank"}
+  * [NPM основы](https://www.youtube.com/watch?v=2e0hbjtUT-4){:target="_blank"}
+  * [ES6 классы](http://jsraccoon.ru/es6-classes){:target="_blank"}
+  * [Классы в ECMAScript 6](https://frontender.info/es6-classes-final/){:target="_blank"}
 
 <details><summary markdown='span'>Вопросы для проверки</summary>
 
@@ -154,7 +156,7 @@ title: Trainee - стажер
 
 ## ООП
 
-  * [Объектно-ориентированное программирование](https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+  * [Объектно-ориентированное программирование](https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5){:target="_blank"}
   
 ### Вопросы про ООП
 
@@ -170,6 +172,6 @@ title: Trainee - стажер
  
 ## Инструменты разработки
 
-  * [Inspect and Edit Pages and Styles](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)
-  * [Вайрфреймы, прототипы и мокапы](http://projectorat.ru/wireframes-prototypes-mockups/)
+  * [Inspect and Edit Pages and Styles](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3){:target="_blank"}
+  * [Вайрфреймы, прототипы и мокапы](http://projectorat.ru/wireframes-prototypes-mockups/){:target="_blank"}
 
