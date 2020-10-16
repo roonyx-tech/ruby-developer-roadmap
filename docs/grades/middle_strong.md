@@ -28,3 +28,13 @@ nav_order: 5
 ### Rails
 
   * [Расширенние Rails](https://guides.rubyonrails.org/active_support_core_extensions.html){:target="_blank"}
+  
+## Про докер
+
+  * [Что такое Docker, и как его использовать?](https://proglib.io/p/docker){:target="_blank"}
+  * [Docker. Зачем и как](https://habr.com/ru/post/309556/){:target="_blank"}
+  * [Понимая Docker](https://habr.com/ru/post/253877/){:target="_blank"}
+  * [Как начать использовать Docker в своих проектах](https://tproger.ru/translations/how-to-start-using-docker/){:target="_blank"}
+  * [Полное практическое руководство по Docker](https://habr.com/ru/post/310460/){:target="_blank"}
+  * [Docker: практическое руководство для начинающих](https://techrocks.ru/2019/04/19/docker-guide-for-beginners/){:target="_blank"}
+

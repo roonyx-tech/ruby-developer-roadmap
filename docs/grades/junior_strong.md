@@ -92,6 +92,8 @@ nav_order: 3
 
   * [Курс: Bash: Основы командной строки (Hexlet)](https://ru.hexlet.io/courses/bash?ref=62000){:target="_blank"}
   * [Статья: Искусство командной строки (статья)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md){:target="_blank"}
+  * [Теоретический минимум *nix-based-систем для WebDev-падавана](https://habr.com/ru/company/dataart/blog/243563/){:target="_blank"}
+  * [20 советов для линукс-гиков](https://habr.com/ru/post/55121/){:target="_blank"}
 
 <details><summary markdown='span'>Вопросы для проверки</summary>
 
