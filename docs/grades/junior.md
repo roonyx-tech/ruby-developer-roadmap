@@ -65,11 +65,19 @@ nav_order: 2
 
 </details>
 
-## Ruby
+## Ruby и Ruby on Rails
 
   * [Try ruby](http://tryruby.org/levels/1/challenges/0){:target="_blank"}
+  * [About ruby](https://www.ruby-lang.org/en/about/){:target="_blank"}
+  * [ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide){:target="_blank"}
+  * [Задачи](http://codekata.com/){:target="_blank"}
+  * [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html){:target="_blank"}
+  * [The Rails Doctrine](https://rubyonrails.org/doctrine/){:target="_blank"}
+  * [Видео-курс по языку Ruby и платформе Rails на 100 часов, на русском языке](http://rubyschool.us/){:target="_blank"}
+  * [Railsbridge](http://curriculum.railsbridge.org/docs/){:target="_blank"}
+  * [Rails Girls Guides](http://rgua.github.io/){:target="_blank"}
 
-<details><summary markdown='span'>Вопросы для проверки</summary>
+<details><summary markdown='span'>Вопросы для проверки Ruby</summary>
 
 #### Числа, операторы и выражения
 
@@ -305,11 +313,7 @@ nav_order: 2
 
 </details>
  
-## Ruby on Rails
-
-  * [guides.rubyonrails.org](https://guides.rubyonrails.org/){:target="_blank"}
-
-<details><summary markdown='span'>Вопросы для проверки</summary>
+<details><summary markdown='span'>Вопросы для проверки Ruby on Rails</summary>
 
 #### Routing
 

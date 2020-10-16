@@ -7,6 +7,11 @@ nav_order: 3
 
 {% include_relative requirements/junior_strong.md %}
 
+## Ruby, rails 
+
+  * [awesome-ruby](https://github.com/markets/awesome-ruby){:target="_blank"}
+  * [27 gems](https://dev.to/rob__race/27-gems-i-use-in-almost-every-project?utm_source=rubyweekly&utm_medium=email){:target="_blank"}
+  
 ## Протокол HTTP 
 
   * [Простым языком об HTTP (habrahabr)](https://habrahabr.ru/post/215117/){:target="_blank"}
@@ -34,6 +39,8 @@ nav_order: 3
 
   * [Виды тестирования и подходы к их применению (habrahabr)](https://habrahabr.ru/post/81226/){:target="_blank"}
   * [Test-Driven Development — телега или лошадь? (habrahabr)](https://habrahabr.ru/post/206828/){:target="_blank"}
+  * [rspec-katas](https://github.com/eliotsykes/rspec-katas){:target="_blank"}
+  * [rspec-rails-examples](https://github.com/eliotsykes/rspec-rails-examples){:target="_blank"}
 
 <details><summary markdown='span'>Вопросы для проверки</summary>
 

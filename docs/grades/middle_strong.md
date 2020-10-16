@@ -16,6 +16,7 @@ nav_order: 5
   * [Design Patterns for Humans (Github)](https://github.com/kamranahmedse/design-patterns-for-humans){:target="_blank"}
   * [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog){:target="_blank"}
   * [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/){:target="_blank"}
+  * [Design patterns in ruby](https://github.com/davidgf/design-patterns-in-ruby){:target="_blank"}
   
 <details><summary markdown='span'>Вопросы для проверки</summary>
 
