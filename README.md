@@ -3,6 +3,8 @@
 We have compiled a Ruby developer skills and competencies map that you can use to develop yourself and your team.
 Try to apply it to yourself!
 
+[Ruby Developer Roadmap (Live)](https://roadmap.roonyx.ru/ruby-developer/)
+
 ## Requirements
   - Ruby version 2.5.0 or higher, including all development headers (check your Ruby version using `ruby -v`)
   - RubyGems (check your Gems version using `gem -v`)
