@@ -11,44 +11,21 @@ nav_order: 3
 
   * [awesome-ruby](https://github.com/markets/awesome-ruby){:target="_blank"}
   * [27 gems](https://dev.to/rob__race/27-gems-i-use-in-almost-every-project?utm_source=rubyweekly&utm_medium=email){:target="_blank"}
-  
-## Протокол HTTP 
-
-  * [Простым языком об HTTP (habrahabr)](https://habrahabr.ru/post/215117/){:target="_blank"}
-  * [HTTP: протокол, который каждый разработчик должен знать (часть 1)](http://ruseller.com/lessons.php?rub=28&id=1726){:target="_blank"}
-  * [HTTP: протокол, который каждый разработчик должен знать (часть 2)](http://ruseller.com/lessons.php?rub=28&id=1777){:target="_blank"}
-  * [HTTP запрос](http://citforum.ru/internet/cgi_tut/rqst.shtml){:target="_blank"}
-  * [HTTP ответ](http://citforum.ru/internet/cgi_tut/spns.shtml){:target="_blank"}
-
-<details><summary markdown='span'>Вопросы для проверки</summary>
-
-  - [ ] Что такое User-agent и зачем он нужет?
-  - [ ] Что такое DNS?
-  - [ ] Отличия HTTP 2.0 от версий 1.x?
-  - [ ] Что такое тело HTTP-запроса?
-  - [ ] Как происходит передача данных?
-  - [ ] Как происходит отправка форм?
-  - [ ] Что такое Transfer-Encoding?
-  - [ ] Что такое Перенаправления?
-  - [ ] Что такое Базовая аутентификация?
-  - [ ] Что такое Cookies?
-
-</details>
 
 ## Тестирование
 
-  * [Виды тестирования и подходы к их применению (habrahabr)](https://habrahabr.ru/post/81226/){:target="_blank"}
-  * [Test-Driven Development — телега или лошадь? (habrahabr)](https://habrahabr.ru/post/206828/){:target="_blank"}
-  * [rspec-katas](https://github.com/eliotsykes/rspec-katas){:target="_blank"}
-  * [rspec-rails-examples](https://github.com/eliotsykes/rspec-rails-examples){:target="_blank"}
+* [Виды тестирования и подходы к их применению (habrahabr)](https://habrahabr.ru/post/81226/){:target="_blank"}
+* [Test-Driven Development — телега или лошадь? (habrahabr)](https://habrahabr.ru/post/206828/){:target="_blank"}
+* [rspec-katas](https://github.com/eliotsykes/rspec-katas){:target="_blank"}
+* [rspec-rails-examples](https://github.com/eliotsykes/rspec-rails-examples){:target="_blank"}
 
 <details><summary markdown='span'>Вопросы для проверки</summary>
 
-  - [ ] Что такое TDD?
-  - [ ] Что такое BDD?
-  - [ ] Что такое Unit тестирование?
-  - [ ] Что такое интеграционное тестирование?
-  - [ ] Что такое системное тестирование?
+- [ ] Что такое TDD?
+- [ ] Что такое BDD?
+- [ ] Что такое Unit тестирование?
+- [ ] Что такое интеграционное тестирование?
+- [ ] Что такое системное тестирование?
 
 </details>
 
@@ -74,49 +51,4 @@ nav_order: 3
      - [ ] Жадность
      - [ ] Группировка
 
-</details>
-
-## SQL 
-
-  * [Что такое SQL (wikipedia)](https://ru.wikipedia.org/wiki/SQL){:target="_blank"}
-  * [Схема базы данных (wikipedia)](https://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85){:target="_blank"}
- 
-<details><summary markdown='span'>Вопросы для проверки</summary>
-
-  - [ ] Как создавать и удалять базы данных, таблицы
-  - [ ] Как добавлять, обновлять и удалять записи
-  - [ ] Что такое схема (SCHEMA)
-  - [ ] WHERE
-  - [ ] LIMIT, OFFSET
-  - [ ] ORDER BY
-  - [ ] GROUP BY
-  - [ ] JOIN
-  - [ ] Подзапросы
-
-</details>
-
-## Linux и CLI
-
-  * [Курс: Bash: Основы командной строки (Hexlet)](https://ru.hexlet.io/courses/bash?ref=62000){:target="_blank"}
-  * [Статья: Искусство командной строки (статья)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md){:target="_blank"}
-  * [Теоретический минимум *nix-based-систем для WebDev-падавана](https://habr.com/ru/company/dataart/blog/243563/){:target="_blank"}
-  * [20 советов для линукс-гиков](https://habr.com/ru/post/55121/){:target="_blank"}
-
-<details><summary markdown='span'>Вопросы для проверки</summary>
-
-  - [ ] Какая разница между UNIX и LINUX?
-  - [ ] Что такое BASH?
-    - [ ] Что делает команда `cd /src/`?
-    - [ ] Что делает команда `ls -lha`?
-    - [ ] Как выйти из vim?
-    - [ ] Что делает команда `touch one.txt`?
-    - [ ] Что делает команда `cp -R one two`?
-    - [ ] Что делает команда `mv one two`?
-    - [ ] Что делает команда `rm -rf one`?
-    - [ ] Что делает команда `pwd`?
-    - [ ] Что делает команда `cat one.txt`?
-    - [ ] Что делает команда `tac one.txt`?
-    - [ ] Что делает команда `tail one.txt`?
-    - [ ] Что делает команда `tail -f one.txt`?
-    
 </details>

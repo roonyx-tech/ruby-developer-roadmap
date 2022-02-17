@@ -7,11 +7,36 @@ nav_order: 2
   
 {% include_relative requirements/junior.md %}
 
-## Программирование и алгоритмизация
+## Linux и CLI
 
-  * [Статья habr: Пузырьковая сортировка и все-все-все](https://habr.com/ru/post/204600/){:target="_blank"}
-  * [Статья habr: Алгоритмы поиска в строке](https://habr.com/ru/post/111449/){:target="_blank"}
-  * [Алгоритмы и структуры данных поиска. Лекции и курсы от Яндекса](https://habr.com/ru/company/yandex/blog/208716/){:target="_blank"}
+* [Курс: Bash: Основы командной строки (Hexlet)](https://ru.hexlet.io/courses/bash?ref=62000){:target="_blank"}
+* [Статья: Искусство командной строки (статья)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md){:target="_blank"}
+* [Теоретический минимум *nix-based-систем для WebDev-падавана](https://habr.com/ru/company/dataart/blog/243563/){:target="_blank"}
+* [20 советов для линукс-гиков](https://habr.com/ru/post/55121/){:target="_blank"}
+
+<details><summary markdown='span'>Вопросы для проверки</summary>
+
+- [ ] Какая разница между UNIX и LINUX?
+- [ ] Что такое BASH?
+    - [ ] Что делает команда `cd /src/`?
+    - [ ] Что делает команда `ls -lha`?
+    - [ ] Как выйти из vim?
+    - [ ] Что делает команда `touch one.txt`?
+    - [ ] Что делает команда `cp -R one two`?
+    - [ ] Что делает команда `mv one two`?
+    - [ ] Что делает команда `rm -rf one`?
+    - [ ] Что делает команда `pwd`?
+    - [ ] Что делает команда `cat one.txt`?
+    - [ ] Что делает команда `tac one.txt`?
+    - [ ] Что делает команда `tail one.txt`?
+    - [ ] Что делает команда `tail -f one.txt`?
+
+</details>
+
+## Структуры данных и алгоритмизация
+
+  * [Блок схемы](http://www.proglearning.ru/programming/progbasics/progbasics_les2.html){:target="_blank"}
+  * [Оценка сложности алгоритмов](https://tproger.ru/articles/computational-complexity-explained/){:target="_blank"}
   * [Структуры данных для самых маленьких](https://habrahabr.ru/post/310794/){:target="_blank"}
   * [Codewars - решай задачи](https://www.codewars.com/){:target="_blank"}
  
@@ -26,10 +51,6 @@ nav_order: 2
      * Связный список
      * Деревья
      * Двоичное дерево поиска
-  - [ ] Расскажите про алгоритмы?
-     * Сортировки
-     * Поиска в строке
-     * Обхода и поиска в структурах данных
 
 </details>
 
@@ -65,8 +86,30 @@ nav_order: 2
 
 </details>
 
+## Базы данных и SQL
+
+* [11 типов современных баз данных: краткие описания, схемы и примеры БД](https://proglib.io/p/11-tipov-sovremennyh-baz-dannyh-kratkie-opisaniya-shemy-i-primery-bd-2020-01-07){:target="_blank"}
+* [Как устроены базы данных](https://habr.com/ru/company/oleg-bunin/blog/358984/){:target="_blank"}
+* [Учебник SQL](https://learndb.ru/articles){:target="_blank"}
+* [Что такое SQL (wikipedia)](https://ru.wikipedia.org/wiki/SQL){:target="_blank"}
+* [Схема базы данных (wikipedia)](https://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85){:target="_blank"}
+
+<details><summary markdown='span'>Вопросы для проверки</summary>
+
+- [ ] Как создавать и удалять базы данных, таблицы
+- [ ] Как добавлять, обновлять и удалять записи
+- [ ] Что такое схема (SCHEMA)
+- [ ] WHERE
+- [ ] LIMIT, OFFSET
+- [ ] ORDER BY
+- [ ] GROUP BY
+- [ ] JOIN
+- [ ] Подзапросы
+</details>
+
 ## Ruby и Ruby on Rails
 
+  * [Интерактивный курс Ruby](https://ru.code-basics.com/languages/ruby){:target="_blank"}
   * [Try ruby](http://tryruby.org/levels/1/challenges/0){:target="_blank"}
   * [About ruby](https://www.ruby-lang.org/en/about/){:target="_blank"}
   * [ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide){:target="_blank"}

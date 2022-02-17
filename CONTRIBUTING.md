@@ -23,7 +23,3 @@ nav_order: 2
 
 Для работы над картой мы используем движок Jekyll, это статический сайт генератор, который легок в освоении.
 Для разввертывания проекта прочтите README.me в корне [репозитория](https://github.com/roonyx/ruby-developer-roadmap/blob/master/README.md)
-
-## Maintainers 
-
-В репозитории cейчас maintainer [Dmitry Anikin](https://github.com/d-anikin)  
